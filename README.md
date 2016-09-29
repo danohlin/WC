@@ -1,5 +1,5 @@
 # WC
-word count in C
+##word count in C
 
 Entering:
 ~~~~
