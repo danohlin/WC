@@ -1,9 +1,10 @@
 # WC
 word count in C
 
-Typing 
-
+Entering:
+~~~~
 ./WC < Filename.txt 
+~~~~
+will print out the number of chars, words and lines in the file.
 
-will print out the number of chars, number of words and number of lines in the file.
-
+Similar to the usage of the unix command wc.
